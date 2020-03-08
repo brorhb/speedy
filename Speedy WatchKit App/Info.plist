@@ -27,9 +27,5 @@
 	</array>
 	<key>WKWatchKitApp</key>
 	<true/>
-	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
-	<string>I need location data to be able to calculate your speed and direction</string>
-	<key>NSLocationWhenInUseUsageDescription</key>
-	<string>I need location data to be able to calculate your speed and direction</string>
 </dict>
 </plist>
